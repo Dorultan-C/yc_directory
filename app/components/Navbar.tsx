@@ -13,6 +13,7 @@ const Navbar = async () => {
 
         <div className='flex items-center gap-5'>
           <p>Lorem nlendus, beatae.</p>
+          <p>2</p>
            
         </div>
       </nav>
